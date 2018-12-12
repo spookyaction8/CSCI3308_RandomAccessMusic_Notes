@@ -1,7 +1,7 @@
 # CSCI3308_RandomAccessMusic_Notes
-*Milestones for CSCI3800 group project*
+*Meeting notes for CSCI3800 group project*
 
-Meeting notes featuring scrum methodology.
+Meeting notes for the project featuring scrum methodology used.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
